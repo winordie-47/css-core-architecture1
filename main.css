@@ -1,0 +1,43 @@
+body {
+	background: gray;
+}
+
+footer, header, main, section {
+	background-color:white;
+	display: block;
+	width: 245px;
+
+}
+
+h1 {
+	
+}
+
+.btn {
+	width: 245px;
+	border:none;
+	font-size:16px;
+	padding: 15px 0;
+	color: #fff;
+}
+
+.red {
+	background-color:red;
+}
+
+.green {
+	background-color:green;
+
+}
+
+.purple {
+	background-color:purple;
+}
+
+.blue {
+	background-color:blue;
+}
+
+.black {
+	background-color:black;
+}

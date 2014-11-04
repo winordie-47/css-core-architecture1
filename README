@@ -1,0 +1,7 @@
+The goal of this week is to build a small project. Pulling from any type of inspiration, to goal is to design and build a single page of a site, be it a home page, contact us, product page, search result, etc ...., just pick on view.
+Build a one page view that encompasses discussion points from today's lecture and last week's points:
+Solid HTML5 structure
+Semantic markup
+Consider using a mobile first strategy / progressive enhancement principals
+Ensure that you are using principals of the SMACSS system
+Look to naming conventions from either OOCSS or BEM
